@@ -2,18 +2,18 @@
 
 **Table of contents**<br>
 1. [Hardware Installations](#hardware-installations)
-    1. [Requirements](#requirements)
-    2. [Setting up VR](#setting-up-vr)
-    3. [Setting up the RP3](#setting-up-the-rp3)
-    4. [Setting up the trackers](#setting-up-the-trackers)
+    * [Requirements](#requirements)
+    * [Setting up VR](#setting-up-vr)
+    * [Setting up the RP3](#setting-up-the-rp3)
+    * [Setting up the trackers](#setting-up-the-trackers)
 2. [Software Installations](#software-installations)
-    1. [Steam](#steam)
-    2. [SteamVR](#steamvr)
-    3. [NeosVR](#neosvr)
-    4. [RP3 Interface](#rp3-interface)
-    5. [Websocket Logger](#websocket-logger)
+    * [Steam](#steam)
+    * [SteamVR](#steamvr)
+    * [NeosVR](#neosvr)
+    * [RP3 Interface](#rp3-interface)
+    * [Websocket Logger](#websocket-logger)
 3. [Startup](#startup)
-    1. [Getting started with Neos](#getting-starter-with-neos)
+    * [Getting started with Neos](#getting-starter-with-neos)
 4. [General setup](#general-setup)
 
 ## Hardware Installations
