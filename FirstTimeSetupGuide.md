@@ -104,6 +104,10 @@ If you want to go back to the tutorial on a later date you can open the world ag
 ![Image of laser hovering over tutorial world option in dash]()<br>
 A list of tutorials, ranging from the very basics to very advanced topics can be found [here](https://wiki.neos.com/Tutorials).
 
+In your Inventory, if it does not contain a folder labeled "Rowing World", paste this link into Neos:<br>
+CloudX.Azure...<br>
+This will spawn a folder in front of your camera which you can save to your inventory.
+
 ## General Setup
 Congratulations you have done everything required to setup the VR environment for use.<br>
 The general setup on how to open the world and get rowing can be found [here](GeneralSetupGuide.md)
