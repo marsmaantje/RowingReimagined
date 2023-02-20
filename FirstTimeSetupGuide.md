@@ -105,7 +105,7 @@ If you want to go back to the tutorial on a later date you can open the world ag
 A list of tutorials, ranging from the very basics to very advanced topics can be found [here](https://wiki.neos.com/Tutorials).
 
 In your Inventory, if it does not contain a folder labeled "Rowing World", paste this link into Neos:<br>
-CloudX.Azure...<br>
+neosrec:///G-UT-Mixed-Reality/R-0e22c94a-40ff-48a2-ace5-f53ed2d1d78e<br>
 This will spawn a folder in front of your camera which you can save to your inventory.
 
 ## General Setup
