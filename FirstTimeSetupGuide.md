@@ -46,11 +46,11 @@ A minimum Play Space of 2.5m wide and 4.5m long is recommended for one machine, 
 ![Image of Playspace drawing containing 2 rowing machines]()
 
 Setup the BaseStations (of wich you probably have two) in opposite corners in the room. Place them as high as you can get them, looking down on the Play Space, so that there is line of sight to at least one of the stations from any point in the Space.<br>
-![Image of Basestations in the corner of a playspace]()
+![Image of Basestations in the corner of a playspace](/Images/BasestationCorner.jpg)
 
 ### Setting up the RP3
 Place the RP3 in the middle of your playspace, it is recommended to have the machine side facing the computers so the connecting cable doesnt tangle.<br>
-![Image of RP3 in the playspace, with cable connected to computer]()
+![Image of RP3 in the playspace, with cable connected to computer](/Images/ConnectedRP3.jpg)
 
 ### Setting up the trackers
 Place the trackers on the RP3
@@ -59,9 +59,11 @@ Place the trackers on the RP3
 > An adapter has been designer for the tundra tracker to attach it to the handle easier. The model to 3D print can be found [here](link to 3d model)
 <br>
 
-![Image of the machine tracker placed on the RP3]()<br>
-![Image of the Handle tracker placed on the RP3]()<br>
-![Image of the Seat tracker placed on the RP3]()
+![Image of the machine tracker placed on the RP3](/Images/MachineTracker.jpg)<br>
+![Image of the Handle tracker placed on the RP3](/Images/HandleTracker1.jpg)<br>
+![Image of the Handle tracker placed on the RP3](/Images/HandleTracker2.jpg)<br>
+![Image of the Seat tracker placed on the RP3](/Images/SeatTracker1.jpg)
+![Image of the Seat tracker placed on the RP3](/Images/SeatTracker2.jpg)
 
 ## Software Installations
 
@@ -73,22 +75,22 @@ Place the trackers on the RP3
 ### SteamVR
 In steam:
 1. Search for "steamVR" on the store.<br>
-![Image of steam search page with steamVR as first result]()
+![Image of steam search page with steamVR as first result](/Images/SteamVRSearch.png)
 2. Download steamVR.<br>
-![Image of mouse hovering over download button on steamVR store page]()
+![Image of mouse hovering over download button on steamVR store page](/Images/SteamVRInstall.png)
 3. Run steamVR and follow the first time setup guide.<br>
-![Image of mouse hovering over play button of steamVR]()<br>
-![Image of first screen of the setup guide]()
+![Image of mouse hovering over play button of steamVR](/Images/SteamVRLaunch.png)<br>
+![Image of first screen of the setup guide](/Images/SteamVRSetup.png)
 
 ### NeosVR
 In steam:
 1. Search for "NeosVR" on the store.<br>
-![Image of steam search page with NeosVR as first result]()
+![Image of steam search page with NeosVR as first result](/Images/NeosVRSearch.png)
 2. Download NeosVR.<br>
-![Image of mouse hovering over download button on NeosVR store page]()
+![Image of mouse hovering over download button on NeosVR store page](/Images/NeosVRInstall.png)
 3. Run NeosVR and follow the first time setup guide.<br>
-![Image of mouse hovering over play button of NeosVR]()<br>
-![Image of first screen of the setup guide]()
+![Image of mouse hovering over play button of NeosVR](/Images/NeosVRLauncher.png)<br>
+![Image of first screen of the setup guide](/Images/NeosVRLaunchFirstTime.png)
 
 ### RP3 Interface
 The RP3 Interface is hosted in [this repository](), you can go there and download and build the application yourself, or download the latest build [here]().
@@ -101,7 +103,7 @@ The Websocket Logger is hosted in [this repository](), you can go there and down
 ### Getting starter with Neos
 If it is your first time running NeosVR, you will be prompted to make an account and follow the first time user guide, it is highly recommended to follow this short tutorial on how to do simple interactions in Neos and not just skip over it.<br>
 If you want to go back to the tutorial on a later date you can open the world again through your dash<br>
-![Image of laser hovering over tutorial world option in dash]()<br>
+![Image of laser hovering over tutorial world option in dash](/Images/NeosVRTutorialWorld.png)<br>
 A list of tutorials, ranging from the very basics to very advanced topics can be found [here](https://wiki.neos.com/Tutorials).
 
 In your Inventory, if it does not contain a folder labeled "Rowing World", paste this link into Neos:<br>

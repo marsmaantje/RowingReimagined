@@ -31,7 +31,7 @@ Launch NeosVR from your Steam library.<br>
 ### RP3 Interface
 Launch the RP3 interface.<br>
 With the Machine connected to a USB port, click on "Find machine". This will bring up a list of connected USB devices. From this list, the RP3 is usually the on with the highest number, but you will know you selected the correct port if the graph suddenly jumps up.<br>
-~[Image of RP3 machine selected and graph jumping up]()
+![Image of RP3 machine selected and graph jumping up]()
 
 ### Websocket Logger
 Launch the Websocket Logger.<br>
