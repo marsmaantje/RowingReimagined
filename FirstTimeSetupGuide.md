@@ -93,10 +93,10 @@ In steam:
 ![Image of first screen of the setup guide](/Images/NeosVRLaunchFirstTime.png)
 
 ### RP3 Interface
-The RP3 Interface is hosted in [this repository](), you can go there and download and build the application yourself, or download the latest build [here]().
+The RP3 Interface is hosted in [this repository](https://github.com/marsmaantje/RP3-Interface), you can go there and download and build the application yourself, or download the latest build [here](https://github.com/marsmaantje/RP3-Interface/releases/latest).
 
 ### Websocket Logger
-The Websocket Logger is hosted in [this repository](), you can go there and download and build the application yourself, or download the latest build [here]().
+The Websocket Logger is hosted in [this repository](https://github.com/marsmaantje/WebsocketLogger), you can go there and download and build the application yourself, or download the latest build [here](https://github.com/marsmaantje/WebsocketLogger/releases/latest).
 
 ## Startup
 
