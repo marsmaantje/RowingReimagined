@@ -17,16 +17,16 @@
 
 ### SteamVR
 Launch SteamVR through the top bar of your steam application.<br>
-![Image of mouse hovering over VR button in Steam]()
+![Image of mouse hovering over VR button in Steam](/Images/SteamVRLaunch.png)
 
 ### NeosVR
 Launch NeosVR from your Steam library.<br>
 > **Note**<br>
 > When presented with launch options, either pick "Launch Neos VR in Steam VR Mode"<br>
 > Or Launch Neos Launcher, and pick Steam VR in the launcher window
-> ![Image of Neos Launcher with SteamVR being selected]()
+> ![Image of Neos Launcher with SteamVR being selected](/Images/NeosVRLauncher.png)
 
-![Image of mouse hovering over play button of Neos]()
+![Image of mouse hovering over play button of Neos](/Images/NeosVRLaunchButton.png)
 
 ### RP3 Interface
 Launch the RP3 interface.<br>
@@ -42,12 +42,12 @@ This app is currently not integrated into the rowing world in Neos...
 ### Finding and opening the world
 In Neos, open your dash and navigate to the "Inventory" screen. In here you should see a folder titled "Rowing World"
 (if you do not see this folder go to the [Getting started with Neos](FirstTimeSetupGuide.md#getting-starter-with-neos) segment of the [First Time Setup Guide](FirstTimeSetupGuide.md))<br>
-![Screenshot of empty inventory, with "Rowing World" folder hovered over]()<br>
+![Screenshot of empty inventory, with "Rowing World" folder hovered over](/Images/NeosVRInventoryWithFolder.png)<br>
 Double click this to open.
 In there you should see a world orb, double click this to spawn it out.<br>
-![Screenshot of world orb inside the folder]()<br>
-Now clode your dash and double click the world orb in front of your camera to open the world, alternatively you can click once for more options on how you want to open the world.<br>
-![Screenshot of world orb, context menu opened on it]()
+![Screenshot of world orb inside the folder](/Images/NeosVROrbInFolder.png)<br>
+Now close your dash and double click the world orb in front of your camera to open the world, alternatively you can click once for more options on how you want to open the world.<br>
+![Screenshot of world orb, context menu opened on it](/Images/NeosVROrbContextMenu.png)
 
 ### Alligning the Real and Virtual Machine
 In the world you will be presented with a row of virtual ergometers. Go to any of these and, by using the menu next to it, assign your trackers to the different parts of the ergometer.<br>
