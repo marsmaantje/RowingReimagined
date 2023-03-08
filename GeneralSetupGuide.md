@@ -1,17 +1,17 @@
 # General Setup Guide
 
 **Table of contents**
-1. [Launching Softwares]()
-    * [SteamVR]()
-    * [NeosVR]()
-    * [RP3 Interface]()
-    * [Websocket Logger]()
-2. [Setting Up in Neos]()
-    * [Finding and Opening the World]()
-    * [Alligning the Real and Virtual Machine]()
-    * [Setting up the Virtual Boat]()
-    * [Setting the Type of Training]()
-3. [Go Rowing]()
+1. [Launching Softwares](#launching-softwares)
+    * [SteamVR](#steamvr)
+    * [NeosVR](#neosvr)
+    * [RP3 Interface](#rp3-interface)
+    * [Websocket Logger](#websocket-logger)
+2. [Setting Up in Neos](#setting-up-in-neos)
+    * [Finding and Opening the World](#finding-and-opening-the-world)
+    * [Alligning the Real and Virtual Machine](#alligning-the-real-and-virtual-machine)
+    * [Setting up the Virtual Boat](#setting-up-the-virtual-boat)
+    * [Setting the Type of Training](#setting-the-type-of-training)
+3. [Go Rowing](#go-rowing)
 
 ## Launching Softwares
 
