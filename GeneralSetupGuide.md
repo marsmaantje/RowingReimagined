@@ -31,13 +31,13 @@ Launch NeosVR from your Steam library.<br>
 ### RP3 Interface
 Launch the RP3 interface.<br>
 With the Machine connected to a USB port, click on "Find machine". This will bring up a list of connected USB devices. From this list, the RP3 is usually the on with the highest number, but you will know you selected the correct port if the graph suddenly jumps up.<br>
-![Image of RP3 machine selected and graph jumping up]()<br>
-![Image of Graph while person is rowing]()
+![Image of RP3 machine selected and graph jumping up](/Images/RP3InterfaceMachineSelected.png)<br>
+![Image of Graph while person is rowing](/Images/RP3InterfaceRowing.png)
 
 ### Websocket Logger
 Launch the Websocket Logger.<br>
 This app is currently not integrated into the rowing world in Neos...
-![Image of Interface of the WebLogger]()
+![Image of Interface of the WebLogger](/Images/WebsocketLoggerRunning.png)
 
 ## Setting Up in Neos
 
@@ -53,15 +53,15 @@ Now close your dash and double click the world orb in front of your camera to op
 
 ### Alligning the Real and Virtual Machine
 In the world you will be presented with a row of virtual ergometers. Go to any of these and, by using the menu next to it, assign your trackers to the different parts of the ergometer.<br>
-![Screenshot of menu, select tracker hovering]()<br>
+![Screenshot of menu, select tracker hovering](/Images/NeosVRSelectTrackerHover.png)<br>
 The menu has three different trackers that need to be assigned, the Machine, Handle ans Seat.<br>
 You can assign a tracker by clicking the "Select Tracker" Button on the menu, this will equip a tooltip on your right hand, use this to point to the virtual representation of the correct tracker attached to the rowing machine, if you then press trigger it will select that tracker and the reference in the menu will no longer be <i>null</i>.<br>
-![Screenshot of tool equipped on hand, pointing towards tracker]()<br>
-![Screenshot of tracker being selected, menu no longer showing null]()
+![Screenshot of tool equipped on hand, pointing towards tracker](/Images/NeosVRTrackerSelection.png)<br>
+![Screenshot of tracker being selected, menu no longer showing null](/Images/NeosVRTrackersSelected.png)
 
 ### Setting up the Virtual Boat
 After alligning the virtual and real ergometer, you can walk to the boat at the dock. Here you are presented with a menu to generate different lengths of the boat, depending on how many users you want to row with. Input the correct number into the menu and press "Generate" to create a boat with the set amount of places for people to sit.
-![Screenshot of Boat menu, with 2 people selected and keyboard open]()
+![Screenshot of Boat menu, with 2 people selected and keyboard open](/Images/NeosVRRowerCountEdit.png)
 
 ### Setting the Type of Training
 Next to the Boat is a second menu to set the type of training you want to do, this can be one of two types:<br>
@@ -69,9 +69,9 @@ Next to the Boat is a second menu to set the type of training you want to do, th
 2. Time: you set how many seconds you want to row.
 
 Once everyone is seated the selected training will begin, and automatically end after the set condition is met.<br>
-![Screenshot of Distance selected with 2000m set]()<br>
-![Screenshot of Time selected with 240 seconds set]()<br>
+![Screenshot of Distance selected with 2000m set](/Images/NeosVRDistanceTraining.png)<br>
+![Screenshot of Time selected with 300 seconds set](/Images/NeosVRTimeTraining.png)<br>
 
 ## Go Rowing
 After setting everything up, simply sit in the seat you chose, and once everyone is seated the training will automatically start.
-![Screenshot of start countdown with everyone seated]()
+![Screenshot of start countdown with everyone seated](/Images/NeosVRTrainingStart.png)
